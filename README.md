@@ -1,4 +1,4 @@
-# -PP----
+#WHATSAPP-AI-ƁOT
 📱 Termux WhatsApp Bot with AI Features
 
 Prerequisites Setup
