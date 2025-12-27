@@ -29,8 +29,8 @@ whatsapp-ai-bot/
 Installation:
 
 ```bash
-git clone https://github.com/your-repo/whatsapp-ai-bot.git
-cd whatsapp-ai-bot
+git clone https://github.com/pokuahhnyarko-lang/-PP----.git
+cd -PP----
 bash install.sh
 ```
 
@@ -49,8 +49,7 @@ bash start.sh
 
 1. Scan QR Code:
 
-· Open WhatsApp → Linked Devices
-· Scan the QR code shown in Termux
+· Open WhatsApp → 
 
 Features Included:
 
